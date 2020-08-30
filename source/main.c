@@ -19,7 +19,7 @@ int main(void) {
     
     /* Insert your solution below */
     while (1) {
-        PORTB = 0xFF;
+        PORTB = 0xF0;
     }
     return 1;
 }
